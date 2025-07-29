@@ -1,4 +1,4 @@
-## A simulated client && database server for client-side direct WAL write evaluation
+# A simulated client && database server for client-side direct WAL write evaluation
 
 ## Key Class Descriptions
 
